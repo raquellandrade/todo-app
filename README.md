@@ -19,7 +19,7 @@ Este é um projeto simples de lista de tarefas (To-Do) desenvolvido com **React.
 
 ## 📸 Demonstração
 
-![todo-app-demo](./todo-app-demo.gif) <!-- Substitua por uma imagem ou GIF do seu app em funcionamento -->
+![todo-app-demo](./assets/todo-app-demo.gif) <!-- Substitua por uma imagem ou GIF do seu app em funcionamento -->
 
 ## 🛠️ Como executar localmente
 
@@ -35,3 +35,28 @@ npm install
 
 # Execute a aplicação
 npm start
+```
+
+Acesse http://localhost:3000 no navegador para ver o app rodando.
+
+## 📁 Estrutura do Projeto
+```bash
+src/
+├── components/
+│   └── TodoItem.jsx
+├── App.jsx
+├── index.js
+└── styles.css
+```
+
+## 📌 Aprendizados
+
+Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
+- Gerenciamento de estado com useState
+- Manipulação de eventos em formulários
+- Renderização condicional e de listas
+- Separação de componentes
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
