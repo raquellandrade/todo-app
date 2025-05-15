@@ -15,11 +15,11 @@ Este é um projeto simples de lista de tarefas (To-Do) desenvolvido com **React.
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Vite](https://vitejs.dev/) ou [Create React App](https://create-react-app.dev/) (dependendo da base que você usou)
+- [Create React App](https://create-react-app.dev/)
 
 ## 📸 Demonstração
 
-![todo-app-demo](./assets/todo-app-demo.gif) <!-- Substitua por uma imagem ou GIF do seu app em funcionamento -->
+![todo-app-demo](./assets/todo-app-demo.gif)
 
 ## 🛠️ Como executar localmente
 
@@ -38,16 +38,6 @@ npm start
 ```
 
 Acesse http://localhost:3000 no navegador para ver o app rodando.
-
-## 📁 Estrutura do Projeto
-```bash
-src/
-├── components/
-│   └── TodoItem.jsx
-├── App.jsx
-├── index.js
-└── styles.css
-```
 
 ## 📌 Aprendizados
 
