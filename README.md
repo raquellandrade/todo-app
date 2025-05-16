@@ -25,7 +25,7 @@ Este é um projeto simples de lista de tarefas (To-Do) desenvolvido com **React.
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/todo-app-react.git
+git clone https://github.com/raquellandrade/todo-app.git
 
 # Acesse a pasta do projeto
 cd todo-app-react
