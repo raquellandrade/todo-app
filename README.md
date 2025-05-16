@@ -19,7 +19,7 @@ Este é um projeto simples de lista de tarefas (To-Do) desenvolvido com **React.
 
 ## 📸 Demonstração
 
-<img src="assets/todo-app-demo.gif" width="500" alt="Todo App">
+<img src="assets/todo-app-demo-new.gif" width="500" alt="Todo App">
 
 ## 🛠️ Como executar localmente
 
