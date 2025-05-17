@@ -28,7 +28,7 @@ Este é um projeto simples de lista de tarefas (To-Do) desenvolvido com **React.
 git clone https://github.com/raquellandrade/todo-app.git
 
 # Acesse a pasta do projeto
-cd todo-app-react
+cd todo-app
 
 # Instale as dependências
 npm install
